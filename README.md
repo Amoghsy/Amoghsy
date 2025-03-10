@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a CSE  1st Year Engineering Student.
+ CSE Year Engineering Student.
 
 
 # 💻 Tech Stack:
