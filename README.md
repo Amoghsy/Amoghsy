@@ -1,7 +1,7 @@
-#  About Me:
+# 💫 About Me:
 I am a passionate and motivated second-year Computer Science and Engineering student with a strong foundation in C and C++, and currently expanding my expertise in Java and web development. I am deeply enthusiastic about technology and eager to contribute to innovative projects in the tech industry. Alongside my core programming skills, I am exploring Android development, driven by a keen interest in creating user-friendly and impactful mobile applications. I am always eager to learn, grow, and apply my knowledge to real-world challenges, aiming to make a meaningful impact in the technology landscape.
 
-#  Tech Stack:
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
